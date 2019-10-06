@@ -7,7 +7,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Separador i comptador de síl·labes. [Exemple, amb llibreria en Perl](https://riuraueditors.cat/separa-sillabes/) 
 * Conversor de xifres a text. [Exemple](https://gent.softcatala.org/jmontane/coses/numbertext/), basat en [numbertext.org](https://numbertext.github.io/)
 * Cerques amb expressions regulars en el diccionari. Exemple de [visca.com](https://visca.com/dr/)
-* Conjugador verbal, o en general flexionador de qualsevol classe de paraules (noms, adjectius, etc.). 
+* Conjugador verbal, o en general flexionador de qualsevol classe de paraules (verbs, noms, adjectius, pronoms, etc.). 
 * Transcriptor fonètic. (Hi ha alguna eina feta.) 
 * Altres?
 
