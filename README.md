@@ -15,6 +15,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 
 * Com hauria de ser la integració en la web de Softcatalà. Una interfície per a cada servei o una interfície per a tots. 
 * Oferim alguna cosa de valor o repetim serveis que ja existeixen (p. ex. Viccionari)?
+  * Com a fet diferencial, aportem els diccionaris de Softcatalà, que tenen més formes que qualsevol altre diccionari (1,24 milions de formes, 143.000 lemes).
 
 ## Fonts de dades i eines existents
 * Viccionari (418.000 entrades), amb flexió, definicions, transcripció fonètica...
