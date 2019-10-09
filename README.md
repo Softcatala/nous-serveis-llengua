@@ -8,7 +8,8 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Conversor de xifres a text. [Exemple](https://gent.softcatala.org/jmontane/coses/numbertext/), basat en [numbertext.org](https://numbertext.github.io/)
 * Cerques amb expressions regulars en el diccionari. Exemple de [visca.com](https://visca.com/dr/). Això es podria no limitar al DIEC, i mostrar l'existència del lema als diferents diccionaris, amb l'enllaç corresponent (DIEC, DNV?, GDLC i DCVB bàsicament, i potser el Viccionari)
 * Conjugador verbal, o en general flexionador de qualsevol classe de paraules (verbs, noms, adjectius, pronoms, etc.). 
-* Transcriptor fonètic. (Hi ha alguna eina feta.) 
+* Transcriptor fonètic. (Hi ha alguna eina feta.)
+* Cercador amigable al [CLDR](http://cldr.unicode.org/), en diversos idiomes.
 * Altres?
 
 ## Dubtes i qüestions que cal resoldre
