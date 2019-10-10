@@ -23,4 +23,5 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Viccionari (418.000 entrades), amb flexió, definicions, transcripció fonètica...
 * Diccionaris de Softcatalà/LanguageTool (1,24 milions de formes etiquetades), i diccionaris d'anàlisi i síntesi ja implementats. 
 * [Wikidata:Lexicographical data](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data), encara sense dades en català.
-* [Segre (transcriptor fonètic de català)](http://nlp.lsi.upc.edu/freeling/demo/segre.php). No funciona. 
+* [Segre (transcriptor fonètic de català)](http://nlp.lsi.upc.edu/freeling/demo/segre.php). No funciona.
+* [BaDaTran](http://latel.upf.edu/cgi-bin/BaDaTran.cgi) (base de dades de transcripcions fonètiques d'alguns diccionaris de referència)
