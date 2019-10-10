@@ -9,7 +9,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Conversor a text d'expressions horàries dels 2 sistemes horaris usats en català: de campanar i de rellotge. 
 * Cerques amb expressions regulars en el diccionari. Exemple de [visca.com](https://visca.com/dr/). Això es podria no limitar al DIEC, i mostrar l'existència del lema als diferents diccionaris, amb l'enllaç corresponent (DIEC, DNV?, GDLC i DCVB bàsicament, i potser el Viccionari)
 * Conjugador verbal, o en general flexionador de qualsevol classe de paraules (verbs, noms, adjectius, pronoms, etc.). 
-* Transcriptor fonètic. (Hi ha alguna eina feta.)
+* Transcripció fonètica: consulta de diccionaris o generació. 
 * Cercador amigable al [CLDR](http://cldr.unicode.org/), en diversos idiomes.
 * Altres?
 
