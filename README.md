@@ -26,5 +26,5 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Per a transcripció fonètica: 
   * [BaDaTran](http://latel.upf.edu/cgi-bin/BaDaTran.cgi) (base de dades de transcripcions fonètiques d'alguns diccionaris de referència)
   * [Segre (transcriptor fonètic de català)](http://nlp.lsi.upc.edu/freeling/demo/segre.php). No funciona.
-  * [TextAfon](https://sites.google.com/site/juanmariagarrido/research/projects-1/texafon), executable amb llicència GNU, però sense codi font (!).
+  * [TextAFon](https://sites.google.com/site/juanmariagarrido/research/projects-1/texafon), executable amb llicència GNU, però sense codi font (!).
   * Les funcions de transcripció fonètica de [eSpeack](http://espeak.sourceforge.net/) o [FestCat](http://festcat.talp.cat/).
