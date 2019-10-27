@@ -29,7 +29,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * [TextAFon](https://sites.google.com/site/juanmariagarrido/research/projects-1/texafon), executable amb llicència GNU, però sense codi font (!).
   * Les funcions de transcripció fonètica de [eSpeack](http://espeak.sourceforge.net/) o [FestCat](http://festcat.talp.cat/).
 
-## Dubtes i qüestions que cal resoldre
+## Tasques i assignació
 
 * Conversor a text d'expressions horàries
   * Qui: Jordi Mas
