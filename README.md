@@ -32,9 +32,9 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 ## Dubtes i qüestions que cal resoldre
 
 * Conversor a text d'expressions horàries
-** Qui: Jordi Mas
-** Estat
-*** Versió preliminar: https://www.softcatala.org/hora-en-catala/
-*** Queda
-**** Moure els JS al lloc definitiu
-**** Disseny com cal
+  * Qui: Jordi Mas
+  * Estat
+    * Versió preliminar: https://www.softcatala.org/hora-en-catala/
+  * Queda
+    * Moure els JS al lloc definitiu
+    * Disseny com cal
