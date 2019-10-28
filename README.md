@@ -30,7 +30,9 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Les funcions de transcripció fonètica de [eSpeack](http://espeak.sourceforge.net/) o [FestCat](http://festcat.talp.cat/).
 
 ## Tasques i assignació
-
+* Integració dels diferents serveis en la web de Softcatalà 
+  * Qui: 
+  
 * Conversor a text d'expressions horàries
   * Qui: Jordi Mas
   * Estat
@@ -38,3 +40,12 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Queda
     * Moure els JS al lloc definitiu
     * Disseny com cal
+
+* Separador i comptador de síl·labes
+  * Qui: Jaume Ortolà
+  * Estat
+    * Es tracta d'un petit programa en Perl (difícil d'implementar d'una altra manera)
+    * Versió preliminar: https://riuraueditors.cat/separa-sillabes/
+  * Queda
+    * Instal·lar en un servidor de SC
+    * Disseny apropiat
