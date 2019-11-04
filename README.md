@@ -44,8 +44,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Separador i comptador de síl·labes
   * Qui: Jaume Ortolà
   * Estat
-    * Es tracta d'un petit programa en Perl (difícil d'implementar d'una altra manera)
-    * Versió preliminar: https://riuraueditors.cat/separa-sillabes/
+    * Disseny preliminar (en JavaScript): https://www.softcatala.org/sillabes/
   * Queda
-    * Instal·lar en un servidor de SC
+    * Pujars els fitxers JS al servidor de Softcatalà
     * Disseny apropiat
