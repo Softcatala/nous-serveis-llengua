@@ -11,7 +11,8 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Diccionari de rimes. Relacionat amb les cerques amb expressions regulars, però una mica més sofisticat. 
 * Conjugador verbal, o en general flexionador de qualsevol classe de paraules (verbs, noms, adjectius, pronoms, etc.). 
 * Transcripció fonètica: consulta de diccionaris o generació. 
-* Cercador amigable al [CLDR](http://cldr.unicode.org/), en diversos idiomes.
+* Cercador amigable al [CLDR](http://cldr.unicode.org/), potser en diversos idiomes.
+* Conversor d'unitats. Potser es podria aprofitar [ConvertAll](http://convertall.bellz.org/) ([en línia](http://convertall-js.bellz.org/), a [GitHub](https://github.com/doug-101/ConvertAll-js)), i de pas [contribuir la traducció](https://github.com/doug-101/ConvertAll/issues/8).
 * Altres?
 
 ## Dubtes i qüestions que cal resoldre
