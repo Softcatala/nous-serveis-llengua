@@ -50,3 +50,11 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Queda
     * Pujars els fitxers JS al servidor de Softcatalà
     * Disseny apropiat
+    
+* Cercador avançat de paraules
+  * Qui: Jaume Ortolà
+  * Estat
+    * Implementació preliminar: https://riuraueditors.cat/advanced-word-search-cat/
+  * Queda
+    * Integració en Softcatalà
+    * Disseny apropiat
