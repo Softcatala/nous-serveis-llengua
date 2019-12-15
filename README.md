@@ -58,3 +58,13 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Queda
     * Integració en Softcatalà
     * Disseny apropiat
+    
+* API per obtenir eficientment l'existència d'un terme en diferents fonts, amb els seus enllaços corresponents
+  * Qui: Pere Orga
+  * Estat
+    * Implementació preliminar: https://github.com/pereorga/dictionary-api
+  * Fet:
+    * CommonVoice
+  * Pendent:
+    * DIEC, DCVB, DNV, GDLC, Viccionari, etc.
+   
