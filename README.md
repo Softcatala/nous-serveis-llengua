@@ -33,15 +33,17 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 
 ## Tasques i assignació
 * Integració dels diferents serveis en la web de Softcatalà 
-  * Qui: 
+  * Qui: Xavi
+  * Estat
+    * En cada lloc
   
 * Conversor a text d'expressions horàries
   * Qui: Jordi Mas
   * Estat
     * Versió preliminar: https://www.softcatala.org/hora-en-catala/
   * Queda
-    * Moure els JS al lloc definitiu
-    * Disseny com cal
+    * Integrar el JS en la construcció del web
+    * Unificar el UI (dos botons dalt de tot: hora actual vs hora en formulari)
 
 * Separador i comptador de síl·labes
   * Qui: Jaume Ortolà
@@ -49,7 +51,8 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
     * Disseny preliminar (en JavaScript): https://www.softcatala.org/sillabes/
   * Queda
     * Pujars els fitxers JS al servidor de Softcatalà
-    * Disseny apropiat
+    * Disseny apropiat (reduir la mida del formulari)
+    * Comprovar scroll en Firefox
     
 * Cercador avançat de paraules
   * Qui: Jaume Ortolà
