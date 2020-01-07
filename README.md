@@ -65,7 +65,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * API per obtenir eficientment l'existència d'un terme en diferents fonts, amb els seus enllaços corresponents
   * Qui: Pere Orga
   * Estat
-    * Implementació preliminar (CommonVoice, GDLC): https://github.com/pereorga/dictionary-api
+    * Implementació preliminar (DIEC, GDLC, CommonVoice): https://github.com/pereorga/dictionary-api
   * Queda
-    * DIEC, DCVB, DNV, Viccionari, etc.
+    * DCVB, DNV, Viccionari, etc.
    
