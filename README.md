@@ -68,4 +68,10 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
     * Implementació preliminar (DIEC, GDLC, CommonVoice): https://github.com/pereorga/dictionary-api
   * Queda
     * DCVB, DNV, Viccionari, etc.
-   
+
+* Convertidor d'unitats
+  * Qui: Pere Orga
+  * Estat
+    * Implementació preliminar: https://orga.cat/unitats/
+  * Queda
+    * Si es decideix integrar, probablement simplificar (o refer) la interfície
