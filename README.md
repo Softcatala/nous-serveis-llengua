@@ -74,4 +74,5 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Estat
     * Implementació preliminar: https://orga.cat/unitats/
   * Queda
+    * Revisar la traducció
     * Si es decideix integrar, probablement simplificar (o refer) la interfície
