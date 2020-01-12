@@ -7,7 +7,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * Separador i comptador de síl·labes. [Exemple, amb llibreria en Perl](https://riuraueditors.cat/separa-sillabes/) 
 * Conversor de xifres a text. [Exemple](https://gent.softcatala.org/jmontane/coses/numbertext/), basat en [numbertext.org](https://numbertext.github.io/)
 * Conversor a text d'expressions horàries dels 2 sistemes horaris usats en català: de campanar i de rellotge. 
-* Cerques amb expressions regulars en el diccionari. Exemple de [visca.com](https://visca.com/dr/). Això es podria no limitar al DIEC, i mostrar l'existència del lema als diferents diccionaris, amb l'enllaç corresponent (DIEC, DNV?, GDLC i DCVB bàsicament, i potser el Viccionari). També podria permetre escoltar pronunciacions de CommonVoice (veure p. ex. https://orga.cat/commonvoice/)
+* Cerques amb expressions regulars en el diccionari. Exemple de [visca.com](https://visca.com/dr/). Això es podria no limitar al DIEC, i mostrar l'existència del lema als diferents diccionaris, amb l'enllaç corresponent (DIEC, DNV?, GDLC i DCVB bàsicament, i potser el Viccionari). També podria permetre escoltar pronunciacions de Common Voice (veure p. ex. https://orga.cat/commonvoice/)
 * Diccionari de rimes. Relacionat amb les cerques amb expressions regulars, però una mica més sofisticat. 
 * Conjugador verbal, o en general flexionador de qualsevol classe de paraules (verbs, noms, adjectius, pronoms, etc.). 
 * Transcripció fonètica: consulta de diccionaris o generació. 
@@ -65,9 +65,11 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
 * API per obtenir eficientment l'existència d'un terme en diferents fonts, amb els seus enllaços corresponents
   * Qui: Pere Orga
   * Estat
-    * Implementació preliminar (DIEC, GDLC, CommonVoice): https://github.com/pereorga/dictionary-api
+    * Implementació preliminar (DIEC, GDLC, DCVB, Common Voice): https://github.com/pereorga/dictionary-api
   * Queda
-    * DCVB, DNV, Viccionari, etc.
+    * DNV, DDLC? CTILC? Viccionari? CiT? Termcat? sinònims Softcatalà? sinònims IEC? sinònims Franquesa?
+    * Fer una demo simple
+    * Integrar en aplicacions existents (p. ex. en el cercador avançat de paraules)
 
 * Convertidor d'unitats
   * Qui: Pere Orga
