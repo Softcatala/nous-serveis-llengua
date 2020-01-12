@@ -67,7 +67,7 @@ Crear nous serveis de consulta lingüística, relativament fàcils d'oferir, que
   * Estat
     * Implementació preliminar (DIEC, GDLC, DCVB, Common Voice): https://github.com/pereorga/dictionary-api
   * Queda
-    * DNV, DDLC? CTILC? Viccionari? CiT? Termcat? sinònims Softcatalà? sinònims IEC? sinònims Franquesa?
+    * DNV, PCCD, DSFF? DDLC? CTILC? Viccionari? CiT? Termcat? sinònims Softcatalà? sinònims IEC? sinònims Franquesa?
     * Fer una demo simple
     * Integrar en aplicacions existents (p. ex. en el cercador avançat de paraules)
 
